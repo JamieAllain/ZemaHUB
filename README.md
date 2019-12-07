@@ -1,2 +1,2 @@
 # ZemaHUB
-Just another respository
+The home of shared robotics
